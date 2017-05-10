@@ -8,7 +8,6 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "open tests/index.html # mac OS"
   },
   "repository": {
     "type": "git",
